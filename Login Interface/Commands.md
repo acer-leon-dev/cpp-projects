@@ -1,0 +1,15 @@
+### COMMANDS
+- accounts
+    - Shows a list of all users in the database (if admin).
+- signup
+    - Creates a new account.
+- login
+    - Logs into an existing account.
+- signout
+    - Signs out of the current account.
+- changepassword
+    - Changes the password of the current account.
+- changeusername
+    - Changes the username of the current account.
+- end
+    - Exits the program.
